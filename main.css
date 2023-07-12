@@ -99,22 +99,6 @@ input[type="email"]:target ~ .input-label {
   z-index: 2;
 }
 
-input[type="password"]:focus ~ .input-label {
-    top: -7px;
-    color: #1864c9;
-    font-size: 13px;
-    background-color: rgb(255, 255, 255);
-    z-index: 2;
-  }
-  input[type="password"]:target ~ .input-label {
-    top: -7px;
-    color: #1864c9;
-    font-size: 13px;
-    background-color: rgb(255, 255, 255);
-    z-index: 2;
-  }
-
-
 .input:focus {
   border: 2px solid #1a73e8;
 }
